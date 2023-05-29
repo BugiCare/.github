@@ -1,12 +1,14 @@
-## Hi there 👋
+# 2023 HSU Capstone - BugiCare
 
-<!--
+> 라즈베리파이와 AI를 활용한 스피커를 통한 어르신 관리 시스템
 
-**Here are some ideas to get you started:**
+</br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 📌 Repository
+
+[SpringBoot Server]: https://github.com/BugiCare/BugiCareServer_SpringBoot
+[Flask Server]: https://github.com/BugiCare/BugiCareServer_Flask
+[Admin App]: https://github.com/BugiCare/BugiCareAdminApp
+[User App]: https://github.com/BugiCare/BugiCareUserApp
+[Admin Web]: https://github.com/BugiCare/BugiCare_Website
+
