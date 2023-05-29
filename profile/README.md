@@ -18,5 +18,14 @@
 
 </br>
 
+## 👨🏻‍💻 팀원
+
+| <img src="https://avatars.githubusercontent.com/u/112394220?v=4"> | <img src="https://avatars.githubusercontent.com/u/92321183?v=4"> | <img src="https://avatars.githubusercontent.com/u/119166000?v=4"> | <img src="https://avatars.githubusercontent.com/u/103445254?v=4"> |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|         [최성관(팀장)](https://github.com/kwani6684)         |           [원찬주](https://github.com/wonchanjoo)            |            [최윤석](https://github.com/choiyooon)            |             [최호빈](https://github.com/zzawang)             |
+|                            front                             |                             back                             |                            front                             |                             back                             |
+
+</br>
+
 ## 🎥 시연 영상
 
