@@ -6,9 +6,9 @@
 
 ## 📌 Repository
 
-[SpringBoot Server]: https://github.com/BugiCare/BugiCareServer_SpringBoo	"SpringBoot Server"
-[Flask Server]: https://github.com/BugiCare/BugiCareServer_Flask
-[Admin App]: https://github.com/BugiCare/BugiCareAdminApp
-[User App]: https://github.com/BugiCare/BugiCareUserApp
-[Admin Web]: https://github.com/BugiCare/BugiCare_Website
+[SpringBoot Server](https://github.com/BugiCare/BugiCareServer_SpringBoot)
+[Flask Server](https://github.com/BugiCare/BugiCareServer_Flask)
+[Admin App](https://github.com/BugiCare/BugiCareAdminApp)
+[User App](https://github.com/BugiCare/BugiCareUserApp)
+[Admin Web](https://github.com/BugiCare/BugiCare_Website)
 
