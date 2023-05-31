@@ -29,6 +29,8 @@
 
 ## 🎥 시연 영상
 
+[![시연 영상](http://img.youtube.com/vi/6Z1z2PJn43g/0.jpg)](https://youtu.be/6Z1z2PJn43g)
+
 </br>
 
 ## 📸 화면
