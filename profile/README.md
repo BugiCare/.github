@@ -35,4 +35,7 @@
 
 ## 📸 화면
 
+#### 웹
 
+<img width="500" alt="web1" src="https://github.com/BugiCare/.github/assets/92321183/5f1d7c5e-a98b-4c58-ae26-eaaca56224bd">
+<img width="500" alt="web2" src="https://github.com/BugiCare/.github/assets/92321183/62258ded-b991-425c-a878-7cc80c30a938">
